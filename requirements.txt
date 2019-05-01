@@ -1,0 +1,5 @@
+blessings==1.7
+inquirer==2.5.1
+python-dotenv==0.10.1
+readchar==2.0.1
+six==1.12.0
